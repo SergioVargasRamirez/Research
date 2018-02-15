@@ -3,7 +3,7 @@ title: "CBAS Research"
 name: "Sergio Vargas"
 repository: "sevragorgia/Research"
 header:
-  teaser: /images/CBAS.jpg
+  teaser: #/images/CBAS.jpg
 search: true
 search_full_content: true
 
@@ -19,3 +19,13 @@ author:
   linkedin         : "sergio-vargas-36961653"
   twitter          : "sevragorgia"
   
+# Social Sharing
+twitter:
+  username               : sevragorgia
+og_image                 : # Open Graph/Twitter default site image
+
+social:
+  type: #
+  name: #
+  links:
+    - "https://twitter.com/sevragorgia"
