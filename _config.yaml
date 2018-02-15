@@ -25,7 +25,9 @@ twitter:
 og_image                 : # Open Graph/Twitter default site image
 
 # Reading Files
-include: ["_pages", "_posts"]
+include:
+  - _pages
+  - _posts
 
 exclude:
   - "*.sublime-project"
