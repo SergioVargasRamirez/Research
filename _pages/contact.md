@@ -1,1 +1,4 @@
-in progress
+---
+permalink: /contact/
+title: in progress
+---
