@@ -7,27 +7,3 @@ header:
 search: true
 search_full_content: true
 
-# Social Sharing
-twitter:
-  username               : sevragorgia
-og_image                 : # Open Graph/Twitter default site image
-
-social:
-  type: Person
-  name: Sergio Vargas
-  links:
-    - "https://twitter.com/sevragorgia"
-
-# Site Author
-author:
-  name             : "Sergio Vargas"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biologist interested in sponges, their bacteria and the interactions between them"  
-  location         : "Munich, Germany"
-  email            :
-  uri              : "https://sevragorgia.github.io/Research
-  github           : "sevragorgia"
-  linkedin         : "sergio-vargas-36961653"
-  twitter          : "sevragorgia"
-  
-
