@@ -1,1 +1,37 @@
 remote_theme: "mmistakes/minimal-mistakes"
+title: "CBAS Research"
+name: "Sergio Vargas"
+repository: "sevragorgia/Research"
+header:
+  teaser: /images/CBAS.jpg
+search: true
+search_full_content: true
+
+social:
+  type: Person
+  name: Sergio Vargas
+  links:
+    - "https://twitter.com/sevragorgia"
+
+author:
+  name   : "Sergio Vargas"
+  avatar : #
+  bio    : "Biologist interested in sponges, their bacteria and the interactions between them"
+  email  : # optional
+  uri    : "https://github.com/sevragorgia/Research"
+  home   : # null (default), "absolute or relative url to link to author home"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+
