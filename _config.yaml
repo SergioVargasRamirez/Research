@@ -11,10 +11,10 @@ search_full_content: true
 author:
   name             : "Sergio Vargas"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biologist interested in sponges, their bacteria and the interactions between them"  
+  bio              : "Biologist interested on the interactions between sponges and their bacteria"
   location         : "Munich, Germany"
-  email            :
-  uri              : "https://sevragorgia.github.io/Research
+  email            : #
+  uri              : "https://sevragorgia.github.io/Research"
   github           : "sevragorgia"
   linkedin         : "sergio-vargas-36961653"
   twitter          : "sevragorgia"
