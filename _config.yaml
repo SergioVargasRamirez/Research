@@ -2,14 +2,12 @@ remote_theme: "mmistakes/minimal-mistakes"
 title: "CBAS Research"
 name: "Sergio Vargas"
 repository: "sevragorgia/Research"
-header:
-  teaser: #/images/CBAS.jpg
 search: true
 search_full_content: true
 author_profile: true
 url: "https://sevragorgia.github.io"
 baseurl: "/Research"
-
+share: true
 
 # Site Author
 author:
@@ -131,7 +129,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
       share: true
       comments: false
 
