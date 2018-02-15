@@ -1,1 +1,5 @@
-In progress
+---
+permalink: /about/
+title: In progress
+---
+
