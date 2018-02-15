@@ -7,6 +7,9 @@ header:
 search: true
 search_full_content: true
 author_profile: true
+url: "https://sevragorgia.github.io"
+baseurl: "/Research"
+
 
 # Site Author
 author:
