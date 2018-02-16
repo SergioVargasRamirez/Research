@@ -1,8 +1,9 @@
 ---
 permalink: /about/
-title: "About me"
+title: About me
+author_profile: falso
 layout: single
-classes: 
+classes:
   - wide
 ---
 
