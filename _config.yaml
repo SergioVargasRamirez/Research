@@ -5,7 +5,7 @@ repository: "sevragorgia/Research"
 search: true
 search_full_content: true
 author_profile: true
-url: "https://scholar.google.com/citations?user=OAcpy4EAAAAJ&hl=en"
+url: "https://sevragorgia.github.io"
 baseurl: "/Research"
 share: true
 
@@ -14,7 +14,7 @@ author:
   name             : "Sergio Vargas"
   bio              : "Biologist interested on the interactions between sponges and their bacteria"
   location         : "Munich, Germany"
-  uri              : "https://sevragorgia.github.io/Research"
+  uri              : "https://scholar.google.com/citations?user=OAcpy4EAAAAJ&hl=en"
   github           : "sevragorgia"
   linkedin         : "sergio-vargas-36961653"
   twitter          : "sevragorgia"
