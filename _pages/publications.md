@@ -2,6 +2,7 @@
 permalink: /publications/
 title: Peer reviewed publications
 author_profile: true
+layout: single
 class: wide
 ---
 
