@@ -5,7 +5,7 @@ repository: "sevragorgia/Research"
 search: true
 search_full_content: true
 author_profile: true
-url: "https://sevragorgia.github.io"
+url: "https://scholar.google.com/citations?user=OAcpy4EAAAAJ&hl=en"
 baseurl: "/Research"
 share: true
 
@@ -129,6 +129,16 @@ defaults:
       layout: single
       share: false
       comments: false
+  # _scrpits
+  #- scope:
+   #   path: ""
+    #  type: scripts
+    #values:
+     # layout: single
+      #author_profile: true
+     # share: true
+      #comments: false
+
 
 category_archive:
   type: liquid
@@ -136,7 +146,7 @@ category_archive:
 
 tag_archive:
   type: liquid
-path: /tags/
+  path: /tags/
 
 # HTML Compression
 # - http://jch.penibelst.de/
