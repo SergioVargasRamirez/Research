@@ -3,10 +3,10 @@ permalink: /contact/
 title: Contact
 ---
 
-Department of Earth & Environmental Sciences,
-Paleontology and Geobiology
-Richard-Wagnerstr. 10
-D-80333 München
+Department of Earth & Environmental Sciences,  
+Paleontology and Geobiology  
+Richard-Wagnerstr. 10  
+D-80333 München  
 Deutschland
 
 tel. +49 89 2180 6706
