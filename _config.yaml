@@ -8,6 +8,8 @@ author_profile: true
 url: "https://sevragorgia.github.io"
 baseurl: "/Research"
 share: true
+words_per_minute: 200
+locale: "en-US"
 
 # Site Author
 author:
