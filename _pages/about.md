@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About me"
-layout: simple
+layout: single
 classes: 
   - wide
 ---
