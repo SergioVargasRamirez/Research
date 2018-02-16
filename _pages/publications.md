@@ -1,6 +1,8 @@
 ---
 permalink: /publications/
 title: Peer reviewed publications
+author_profile: true
+class: wide
 ---
 
 ## Preprints
