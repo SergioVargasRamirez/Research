@@ -7,7 +7,7 @@ title: Peer reviewed publications
 
 
 ## 2018
-Mills, Daniel B., Warren R. Francis, Sergio Vargas, Morten Larsen, Coen P. H. Elemans, Donald E. Canfield, and Gert Wörheide. 2018. “The Last Common Ancestor of Animals Lacked the HIF Pathway and Respired in Low-Oxygen Environments.” eLife 7 (February). eLife Sciences Publications Limited:e31176.
+- Mills, Daniel B., Warren R. Francis, Sergio Vargas, Morten Larsen, Coen P. H. Elemans, Donald E. Canfield, and Gert Wörheide. 2018. “The Last Common Ancestor of Animals Lacked the HIF Pathway and Respired in Low-Oxygen Environments.” eLife 7 (February). eLife Sciences Publications Limited:e31176.
 
 ## 2017
 - González-Pech, Raúl A., Sergio Vargas, Warren R. Francis, and Gert Wörheide. 2017. “Transcriptomic Resilience of the Montipora Digitata Holobiont to Low pH.” Frontiers in Marine Science 4:403.
