@@ -2,7 +2,8 @@
 permalink: /about/
 title: About me
 layout: simple
-classes: wide
+classes: 
+  -wide
 ---
 
 I'm originally from [Costa Rica](https://en.wikipedia.org/wiki/Costa_Rica). I studied biology at the [University of Costa Rica](https://en.wikipedia.org/wiki/University_of_Costa_Rica). There I obtained a bachelor and a Master in Science degree. Towards the end of my masters I got a DAAD scholarship to visit Hannover for four months to work on octocoral molecular phylogeny. I went back to Costa Rica for a short time and in 2007 I got another scholarship to go to Spain to learn some bioinformatics.
