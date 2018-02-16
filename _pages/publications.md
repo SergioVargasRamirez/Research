@@ -8,14 +8,14 @@ classes:
 ---
 
 ## Preprints
-- Michael Eitel, Warren Francis, Hans-Jürgen Osigus, Stefan Krebs, **Sergio Vargas**, Helmut Blum, Gray Argust Williams, Bernd Schierwater, Gert Wörheide. 2017. A taxogenomics approach uncovers a new genus in the phylum Placozoa. *bioRxiv*.
+- Eitel, Michael, Warren R. Francis, Hans-Jürgen Osigus, Stefan Krebs, **Sergio Vargas**, Helmut Blum, Gray A. Williams, Bernd Schierwater, Gert Wörheide. 2017. A taxogenomics approach uncovers a new genus in the phylum Placozoa. *bioRxiv*.
 [https://doi.org/10.1101/202119](https://doi.org/10.1101/202119)
 
--  Astrid Schuster, **Sergio Vargas**, Ingrid Knapp, Shirley A. Pomponi, Robert J. Toonen, Dirk Erpenbeck, Gert Woerheide. 2017. Divergence times in demosponges (Porifera): first insights from new mitogenomes and the inclusion of fossils in a birth-death clock model. *bioRxiv*. [https://doi.org/10.1101/159806](https://doi.org/10.1101/159806)
+- Francis, Warren R., Michael Eitel, **Sergio Vargas**, Marcin Adamski, Steven HD Haddock, Stefan Krebs, Helmut Blum, Dirk Erpenbeck, Gert Wörheide. 2017. The Genome Of The Contractile Demosponge *Tethya wilhelma* And The Evolution Of Metazoan Neural Signalling Pathways. *bioRxiv* [https://doi.org/10.1101/120998](https://doi.org/10.1101/120998)
 
-- Monica Pichler, Ömer K. Coskun, Ana Sofia Ortega, Nicola Conci, Gert Wörheide, **Sergio Vargas**, William D. Orsi. 2017. A 16S rRNA gene sequencing and analysis protocol for the Illumina MiniSeq platform. *bioRxiv*. [https://doi.org/10.1101/227108](https://doi.org/10.1101/227108)
+- Pichler, Monica, Ömer K. Coskun, Ana Sofia Ortega, Nicola Conci, Gert Wörheide, **Sergio Vargas**, William D. Orsi. 2017. A 16S rRNA gene sequencing and analysis protocol for the Illumina MiniSeq platform. *bioRxiv*. [https://doi.org/10.1101/227108](https://doi.org/10.1101/227108)
 
-- Warren R Francis, Michael Eitel, **Sergio Vargas**, Marcin Adamski, Steven HD Haddock, Stefan Krebs, Helmut Blum, Dirk Erpenbeck, Gert Wörheide. 2017. The Genome Of The Contractile Demosponge *Tethya wilhelma* And The Evolution Of Metazoan Neural Signalling Pathways. *bioRxiv* [https://doi.org/10.1101/120998](https://doi.org/10.1101/120998)
+- Schuster, Astrid, **Sergio Vargas**, Ingrid Knapp, Shirley A. Pomponi, Robert J. Toonen, Dirk Erpenbeck, Gert Woerheide. 2017. Divergence times in demosponges (Porifera): first insights from new mitogenomes and the inclusion of fossils in a birth-death clock model. *bioRxiv*. [https://doi.org/10.1101/159806](https://doi.org/10.1101/159806)
 
 - Poliseno, Angelo, Odalisca Breedy, Michael Eitel, Gert Woerheide, Hector M. Guzman, Stefan Krebs, Helmuth Blum, and **Sergio Vargas**. 2016. “Complete Mitochondrial Genome of *Muricea Crassa* and *Muricea purpurea* (Anthozoa: Octocorallia) from the Eastern Tropical Pacific. *bioRxiv*. [https://doi.org/10.1101/042945](https://doi.org/10.1101/042945)
 
@@ -38,7 +38,7 @@ classes:
 ## 2016
 - Ament-Velásquez, Sandra L., Odalisca Breedy, Jorge Cortés, Hector M. Guzman, Gert Wörheide, and **Sergio Vargas**. 2016. Homoplasious Colony Morphology and Mito-Nuclear Phylogenetic Discordance among Eastern Pacific Octocorals. *Molecular Phylogenetics and Evolution* 98:373–81.
 
-- Francis, Warren Russell, Michael Eitel, **Sergio Vargas**, Stefan Krebs, Helmut Blum, and Gert Wörheide. 2016. Mitochondrial Genomes of the Freshwater Sponges *Spongilla lacustris* and *Ephydatia* Cf. *muelleri*. Mitochondrial DNA Part B 1 (1):250–51.
+- Francis, Warren R., Michael Eitel, **Sergio Vargas**, Stefan Krebs, Helmut Blum, and Gert Wörheide. 2016. Mitochondrial Genomes of the Freshwater Sponges *Spongilla lacustris* and *Ephydatia* Cf. *muelleri*. Mitochondrial DNA Part B 1 (1):250–51.
 
 - Shimpi, Gaurav G., **Sergio Vargas**, and Gert Wörheide. 2016. Evaluation and Validation of Reference Genes for qPCR Analysis to Study Climate Change-Induced Stresses in *Sinularia* cf. *cruciata* (Octocorallia: Alcyonidae). Journal of Experimental Marine Biology and Ecology 483: 42–52.
 
