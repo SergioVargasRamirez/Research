@@ -53,7 +53,7 @@ classes:
 - **Vargas, Sergio**, Hector M. Guzman, Odalisca Breedy, and Gert Wörheide. 2014. Molecular Phylogeny and DNA Barcoding of Tropical Eastern Pacific Shallow-Water Gorgonian Octocorals. *Marine Biology* 161 (5):1027–38.
 
 ## 2013
--Dohrmann, Martin, **Sergio Vargas**, Dorte Janussen, Allen G. Collins, and Gert Wörheide. 2013. Molecular Paleobiology of Early-Branching Animals: Integrating DNA and Fossils Elucidates the Evolutionary History of Hexactinellid Sponges. *Paleobiology* 39 (1):95–108.
+- Dohrmann, Martin, **Sergio Vargas**, Dorte Janussen, Allen G. Collins, and Gert Wörheide. 2013. Molecular Paleobiology of Early-Branching Animals: Integrating DNA and Fossils Elucidates the Evolutionary History of Hexactinellid Sponges. *Paleobiology* 39 (1):95–108.
 
 - Szitenberg, Amir, Leontine E. Becking, **Sergio Vargas**, Júlio C. C. Fernandez, Nadiezhda Santodomingo, Gert Wörheide, Micha Ilan, Michelle Kelly, and Dorothée Huchon. 2013. Phylogeny of Tetillidae (Porifera, Demospongiae, Spirophorida) Based on Three Molecular Markers. *Molecular Phylogenetics and Evolution* 67 (2):509–19.
 
