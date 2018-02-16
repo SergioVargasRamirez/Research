@@ -11,7 +11,7 @@ classes:
 - Eitel, Michael, Warren R. Francis, Hans-Jürgen Osigus, Stefan Krebs, **Sergio Vargas**, Helmut Blum, Gray A. Williams, Bernd Schierwater, Gert Wörheide. 2017. A taxogenomics approach uncovers a new genus in the phylum Placozoa. *bioRxiv*.
 [https://doi.org/10.1101/202119](https://doi.org/10.1101/202119)
 
-- Francis, Warren R., Michael Eitel, **Sergio Vargas**, Marcin Adamski, Steven HD Haddock, Stefan Krebs, Helmut Blum, Dirk Erpenbeck, Gert Wörheide. 2017. The Genome Of The Contractile Demosponge *Tethya wilhelma* And The Evolution Of Metazoan Neural Signalling Pathways. *bioRxiv* [https://doi.org/10.1101/120998](https://doi.org/10.1101/120998)
+- Francis, Warren R., Michael Eitel, **Sergio Vargas**, Marcin Adamski, Steven HD Haddock, Stefan Krebs, Helmut Blum, Dirk Erpenbeck, Gert Wörheide. 2017. The Genome Of The Contractile Demosponge *Tethya wilhelma* And The Evolution Of Metazoan Neural Signalling Pathways. *bioRxiv*. [https://doi.org/10.1101/120998](https://doi.org/10.1101/120998)
 
 - Pichler, Monica, Ömer K. Coskun, Ana Sofia Ortega, Nicola Conci, Gert Wörheide, **Sergio Vargas**, William D. Orsi. 2017. A 16S rRNA gene sequencing and analysis protocol for the Illumina MiniSeq platform. *bioRxiv*. [https://doi.org/10.1101/227108](https://doi.org/10.1101/227108)
 
