@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: About me
-author_profile: falso
+author_profile: true 
 layout: single
 classes:
   - wide

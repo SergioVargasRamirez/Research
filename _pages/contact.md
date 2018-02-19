@@ -1,7 +1,10 @@
 ---
 permalink: /contact/
 title: Contact
-class: wide
+layout: single
+author_profile: false
+classes:
+ - wide
 ---
 
 Department of Earth & Environmental Sciences,  
