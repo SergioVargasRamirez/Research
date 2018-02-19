@@ -1,5 +1,4 @@
 ---
-title: "Welcome"
 layout: splash
 permalink: /
 header:
