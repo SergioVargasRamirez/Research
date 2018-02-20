@@ -1,5 +1,5 @@
 ---
-title: Central limit teorem animation in R
+title: Central limit theorem animation in R
 categories: 
  - R
  - Statistics
