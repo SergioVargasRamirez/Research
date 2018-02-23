@@ -1,4 +1,4 @@
- ---
+---
 title: The law of large numbers animation in R
 categories: 
  - R
@@ -15,7 +15,7 @@ I published code to visualize this using the R package 'animation' as a gist:
 
 {% gist 33fed7c29a1e2748eac4da371fb003a4 %}
 
-You will hopefully get an animated gif (i.e. Central_Teorem.gif) looking like this:
+You will hopefully get an animated gif (i.e. Law_of_Large_Numbers.gif) looking like this:
 
 ![large_numbers](https://imgur.com/a/H4mXJ)
   
