@@ -8,19 +8,23 @@ classes:
 ---
 
 ## Preprints
-- Eitel, Michael, Warren R. Francis, Hans-Jürgen Osigus, Stefan Krebs, **Sergio Vargas**, Helmut Blum, Gray A. Williams, Bernd Schierwater, Gert Wörheide. 2017. A taxogenomics approach uncovers a new genus in the phylum Placozoa. *bioRxiv*.
-[https://doi.org/10.1101/202119](https://doi.org/10.1101/202119)
 
 - Francis, Warren R., Michael Eitel, **Sergio Vargas**, Marcin Adamski, Steven HD Haddock, Stefan Krebs, Helmut Blum, Dirk Erpenbeck, Gert Wörheide. 2017. The Genome Of The Contractile Demosponge *Tethya wilhelma* And The Evolution Of Metazoan Neural Signalling Pathways. *bioRxiv*. [https://doi.org/10.1101/120998](https://doi.org/10.1101/120998)
-
-- Pichler, Monica, Ömer K. Coskun, Ana Sofia Ortega, Nicola Conci, Gert Wörheide, **Sergio Vargas**, William D. Orsi. 2017. A 16S rRNA gene sequencing and analysis protocol for the Illumina MiniSeq platform. *bioRxiv*. [https://doi.org/10.1101/227108](https://doi.org/10.1101/227108)
-
-- Schuster, Astrid, **Sergio Vargas**, Ingrid Knapp, Shirley A. Pomponi, Robert J. Toonen, Dirk Erpenbeck, Gert Woerheide. 2017. Divergence times in demosponges (Porifera): first insights from new mitogenomes and the inclusion of fossils in a birth-death clock model. *bioRxiv*. [https://doi.org/10.1101/159806](https://doi.org/10.1101/159806)
 
 - Poliseno, Angelo, Odalisca Breedy, Michael Eitel, Gert Woerheide, Hector M. Guzman, Stefan Krebs, Helmuth Blum, and **Sergio Vargas**. 2016. “Complete Mitochondrial Genome of *Muricea Crassa* and *Muricea purpurea* (Anthozoa: Octocorallia) from the Eastern Tropical Pacific. *bioRxiv*. [https://doi.org/10.1101/042945](https://doi.org/10.1101/042945)
 
 ## 2018
+
+
+- Eitel, Michael, Warren R. Francis, Frédérique Varoqueaux, Jean Daraspe, Hans-Jürgen Osigus, Stefan Krebs, **Sergio Vargas**, Helmut Blum, Gray A. Williams, Bernd Schierwater, Gert Wörheide. 2018. Comparative Genomics and the Nature of Placozoan Species. *PLoS Biology* 16 (7): e2005359.
+
+- Schuster, Astrid, **Sergio Vargas**, Ingrid Knapp, Shirley A. Pomponi, Robert J. Toonen, Dirk Erpenbeck, Gert Woerheide. 2018. Divergence times in demosponges (Porifera): first insights from new mitogenomes and the inclusion of fossils in a birth-death clock model. *BMC Evolutionary Biology* 18 (1): 114.
+
+- Pichler, Monica, Ömer K. Coskun, Ana Sofia Ortega, Nicola Conci, Gert Wörheide, **Sergio Vargas**, William D. Orsi. 2018. A 16S rRNA gene sequencing and analysis protocol for the Illumina MiniSeq platform. *Microbiology Open* 215: e00611.
+
 - Mills, Daniel B., Warren R. Francis, **Sergio Vargas**, Morten Larsen, Coen P. H. Elemans, Donald E. Canfield, and Gert Wörheide. 2018. The Last Common Ancestor of Animals Lacked the HIF Pathway and Respired in Low-Oxygen Environments. *eLife* 7: e31176.
+
+
 
 ## 2017
 - González-Pech, Raúl A., **Sergio Vargas**, Warren R. Francis, and Gert Wörheide. 2017. Transcriptomic Resilience of the *Montipora digitata* Holobiont to Low pH. *Frontiers in Marine Science* 4:403.
