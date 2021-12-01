@@ -7,23 +7,9 @@ classes:
   - wide
 ---
 
-## Preprints
-
-- Poliseno, Angelo, Odalisca Breedy, Hector M. Guzman, and Sergio Vargas. 2021. Hybridization and Cryptic Speciation in the Tropical Eastern Pacific Octocoral Genus *Pacifigorgia*. *bioRxiv*. [https://doi.org/10.1101/2021.04.29.442007](https://doi.org/10.1101/2021.04.29.442007).
-
-- Shimpi, Gaurav G., **Sergio Vargas**, and Gert Wörheide. 2017. Exploring the Mitochondrial Response to Oxidative DNA Damage in Octocorals. e2770v1. *PeerJ Preprints*. [https://doi.org/10.7287/peerj.preprints.2770v1](https://doi.org/10.7287/peerj.preprints.2770v1).
-
-- Francis, Warren R., Michael Eitel, **Sergio Vargas**, Marcin Adamski, Steven HD Haddock, Stefan Krebs, Helmut Blum, Dirk Erpenbeck, Gert Wörheide. 2017. The Genome Of The Contractile Demosponge *Tethya wilhelma* And The Evolution Of Metazoan Neural Signalling Pathways. *bioRxiv*. [https://doi.org/10.1101/120998](https://doi.org/10.1101/120998)
-
-- Poliseno, Angelo, Odalisca Breedy, Michael Eitel, Gert Wörheide, Hector M. Guzman, Stefan Krebs, Helmuth Blum, and **Sergio Vargas**. 2016. Complete Mitochondrial Genome of *Muricea Crassa* and *Muricea purpurea* (Anthozoa: Octocorallia) from the Eastern Tropical Pacific. *bioRxiv*. [https://doi.org/10.1101/042945](https://doi.org/10.1101/042945)
-
-
-## Accepted
+## 2021
 
 - **Vargas, Sergio**, Thorsten Zimmer, Nicola Conci, Martin Lehmann, and Gert Wörheide. 2021. Transcriptional Response of the Calcification and Stress Response Toolkits in an Octocoral under Heat and pH Stress. *Molecular Ecology*. [https://doi.org/10.1111/mec.16266](https://doi.org/10.1111/mec.16266)
-
-
-## 2021
 
 - Orsi, William D., Tobias Magritsch, **Sergio Vargas**, Ömer K. Coskun, Aurele Vuillemin, Sebastian Höhna, Gert Wörheide, Steven D’Hondt, B. Jesse Shapiro, and Paul Carini. 2021. Genome Evolution in Bacteria Isolated from Million-Year-Old Subseafloor Sediment. *mBio* 12 (4): e0115021.
 
@@ -140,3 +126,14 @@ classes:
 
 ## 2008
 - **Vargas, Sergio**, Hector M. Guzman, and Odalisca Breedy. 2008. Distribution Patterns of the Genus *Pacifigorgia* (Octocorallia: Gorgoniidae): Track Compatibility Analysis and Parsimony Analysis of Endemicity. *Journal of Biogeography* 35 (2): 241-247.
+
+
+# Preprints
+
+- Poliseno, Angelo, Odalisca Breedy, Hector M. Guzman, and Sergio Vargas. 2021. Hybridization and Cryptic Speciation in the Tropical Eastern Pacific Octocoral Genus *Pacifigorgia*. *bioRxiv*. [https://doi.org/10.1101/2021.04.29.442007](https://doi.org/10.1101/2021.04.29.442007).
+
+- Shimpi, Gaurav G., **Sergio Vargas**, and Gert Wörheide. 2017. Exploring the Mitochondrial Response to Oxidative DNA Damage in Octocorals. e2770v1. *PeerJ Preprints*. [https://doi.org/10.7287/peerj.preprints.2770v1](https://doi.org/10.7287/peerj.preprints.2770v1).
+
+- Francis, Warren R., Michael Eitel, **Sergio Vargas**, Marcin Adamski, Steven HD Haddock, Stefan Krebs, Helmut Blum, Dirk Erpenbeck, Gert Wörheide. 2017. The Genome Of The Contractile Demosponge *Tethya wilhelma* And The Evolution Of Metazoan Neural Signalling Pathways. *bioRxiv*. [https://doi.org/10.1101/120998](https://doi.org/10.1101/120998)
+
+- Poliseno, Angelo, Odalisca Breedy, Michael Eitel, Gert Wörheide, Hector M. Guzman, Stefan Krebs, Helmuth Blum, and **Sergio Vargas**. 2016. Complete Mitochondrial Genome of *Muricea Crassa* and *Muricea purpurea* (Anthozoa: Octocorallia) from the Eastern Tropical Pacific. *bioRxiv*. [https://doi.org/10.1101/042945](https://doi.org/10.1101/042945)
