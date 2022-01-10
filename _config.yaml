@@ -14,7 +14,7 @@ locale: "en-US"
 # Site Author
 author:
   name             : "Sergio Vargas"
-  bio              : "Biologist interested on the interactions between sponges and their bacteria"
+  bio              : "Biologist interested on the biology of sponges, octocorals, and their bacteria"
   location         : "Munich, Germany"
   uri              : "https://scholar.google.com/citations?user=OAcpy4EAAAAJ&hl=en"
   #uri              : "https://sevragorgia.github.io/Research"
