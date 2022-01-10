@@ -1,6 +1,8 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Former Students"
+    url: /students/
   - title: "Posts"
     url: /posts/
   - title: "About"
